@@ -1,0 +1,9 @@
+1. python version required 3.7.6
+
+(please install python and installtion time please check add to path add to path)
+
+2. go to your project folder and copth folder path and past in powershell
+
+3. pip install -r requirements.txt
+
+4. then write on powershell jupyter notebook
